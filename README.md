@@ -1,6 +1,12 @@
 <h1 align="center">👋 ¡Hola! Soy Walid Toubi</h1>
 <h3 align="center">Desarrollador Web Full Stack Junior</h3>
 
+<p align="center">
+  <a href="https://portfolio-v0-ten.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Ver%20mi%20portafolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 ---
 
 ### 🚀 Sobre mí
