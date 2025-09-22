@@ -45,6 +45,5 @@ Me implico de verdad en lo que hago, me adapto con rapidez y siempre busco forma
 ---
 
 <div align="center">
-  <h3>🐍 Mis contribuciones en GitHub</h3>
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </div>
