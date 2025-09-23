@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador Web Full Stack Junior</h3>
 
 <p align="center">
-  <a href="walid.es" target="_blank">
+  <a href="https://walid.es" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Ver%20mi%20portafolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
